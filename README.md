@@ -22,6 +22,6 @@ This includes but not limited to:
 
 
 
-![Portfolio Screenshot](\screenshot.png)
+![Portfolio Screenshot](images\screenshot.png)
 
 -----------------------------------------------------------------------
