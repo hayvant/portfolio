@@ -1,0 +1,164 @@
+
+.bottom {
+    display: block;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100%;
+    color: green;
+    margin: 20px;
+    text-align: center;
+}
+
+#header {
+    padding: 20px;
+    text-align: left;
+    background-color: whitesmoke;
+}
+
+header nav ul a {
+font-size: 15px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-decoration: none;
+color: rgb(110, 110, 110);
+margin: 20px;
+}
+
+.links {
+    text-align: right;
+}
+header h1 {
+    margin-left: 30px;
+    font-size: 300%;
+    color: rgb(26, 25, 25);
+}
+
+header nav ul a:hover {
+    text-decoration: underline;
+}
+
+#hire-me {
+    border: 10px;
+    background-color: rgb(73, 156, 73);
+    color: aliceblue;
+}
+
+.middle {
+    background-color: rgb(32, 92, 32);
+    color: whitesmoke;
+    padding: 60px;
+    opacity: 0.8;
+}
+
+.middle img {
+    padding: 10px;
+    width: 450px;
+    height: 300px;
+    position: static;
+    margin-bottom: 10px;
+    border: 10px whitesmoke solid;
+    position: absolute;
+    top: 100px;
+    right: 690px;
+}
+
+section h1 {
+    font-size: 160%;
+    margin-top: 8%;
+    margin-left: 48%;
+}
+
+#hailey {
+    color: black;
+}
+
+.row {
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+    margin: 20px 0px;
+}
+
+.columnleft {
+    width: 25%;
+    text-align: right;
+    font-size: 200%;
+    padding: 20px;
+    margin-right: 20px;
+    background-color: #7a7b7c;
+}
+
+.columnleft ul h3 {
+    padding: 100px 0px;
+    text-align: right;
+}
+
+.columnright {
+    padding: 20px;
+    width: 75%;
+    background-color: #7c7d80;
+}
+
+.columnright ul p {
+    padding: 20px;
+}
+
+.minibox {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.mini {
+    justify-content: center;
+    width: 200px;
+    height: 150px;
+    margin: 20px;
+}
+
+section h2 {
+    font-size: 90%;
+    margin-left: 45.5%;
+    margin-bottom: 0%;
+}
+
+footer {
+    width: 100%;
+    background: #464c52;
+  }
+
+.flex-container {
+    margin: 0px;
+}
+
+.box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-self: center;
+    padding: 25px;
+}
+
+.skills {
+    justify-content: center;
+    height: 100px;
+    width: 180px;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+html2 {
+    scroll-behavior: smooth;
+}
+
+.top {
+display: block;
+text-decoration: none;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 100%;
+color: green;
+margin: 20px;
+text-align: center;
+}
