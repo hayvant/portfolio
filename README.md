@@ -1,4 +1,4 @@
-#MY PORTFOLIO
+# MY PORTFOLIO
 
 **Hello!**
 
@@ -22,7 +22,7 @@ This includes but not limited to:
 
 
 
-![Portfolio Screenshot](img\portfolio-screenshot.png)
+![Portfolio Screenshot](.img\portfolio-screenshot.png)
 
 
 -----------------------------------------------------------------------
