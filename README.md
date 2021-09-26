@@ -18,7 +18,7 @@ This includes but not limited to:
 -----------------------------------------------------------------------
 
 
->Repository link: [My Portfolio](https://hayvant.github.io/portfolio/)
+>Deploy link: [My Portfolio](https://hayvant.github.io/portfolio/)
 
 
 ![Portfolio Screenshot](https://user-images.githubusercontent.com/89271807/134788759-05c5a960-342d-4902-bb9c-aeeb0db651bc.png)
