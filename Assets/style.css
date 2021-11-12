@@ -112,6 +112,7 @@
  .minibox {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
  }
 
  .mini {
